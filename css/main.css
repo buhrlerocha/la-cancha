@@ -1,0 +1,55 @@
+/* Inserta tu CSS aqui */
+.contenedor {
+	background-color:#7CF371;
+	width: 900px;
+	height: 500px;
+}
+.grande {
+	border: 1px solid white;
+	width: 850px;
+	height: 450px;
+	position: relative;
+	left: 25px;
+	top: 25px;
+}
+
+.cuadrado1 {
+     border: 1px solid white;
+     width: 110px;
+     height: 190px;
+     position: absolute;
+     top: 130px;
+}
+.cuadrado2 {
+     border: 1px solid white;
+     width: 110px;
+     height: 190px;
+     position: absolute;
+     top: 130px;
+     right: 0;
+}
+.redondo {
+     border: 1px solid white;
+     width: 190px;
+     height: 190px;
+     border-radius: 100px;
+     position: absolute;
+     top: 130px;
+     right: 325px;	
+}
+.primera {
+	position: absolute;
+	top: 130px;
+	left: 100px;
+}
+.segunda {
+	position: absolute;
+	right: 120px;
+	bottom: 135px;
+}
+.tercera {
+	position: absolute;
+	right: 380px;
+	top: 50px;
+}
+
